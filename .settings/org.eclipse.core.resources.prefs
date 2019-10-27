@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/com/dao=GBK
+encoding//src/com/dao/impl=GBK
+encoding//src/com/dao/impl/StudentDaoImpl.java=GBK
+encoding//src/com/entity=GBK
+encoding//src/com/entity/Admin.java=UTF-8
+encoding//src/com/entity/PageBean.java=UTF-8
+encoding//src/com/filter=GBK
+encoding//src/com/filter/Myfilter.java=UTF-8
+encoding//src/com/service=GBK
+encoding//src/com/service/Impl=GBK
+encoding//src/com/service/Impl/StudentServiceImpl.java=GBK
+encoding//src/com/servlet=GBK
